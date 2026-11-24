@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+accelerate
+timm
+kagglehub
+scikit-learn
+matplotlib
+seaborn
+pillow
+numpy
+pandas
+tqdm
